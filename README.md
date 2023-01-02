@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://spiffy-buttercream-b513ee.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://spiffy-buttercream-b513ee.netlify.app/)
 - GitHub [@your-username](https://github.com/Mohammed-mehdi-raza)
